@@ -1,9 +1,20 @@
+.background{
+	width: 100%;
+
+}
+
+.row{
+	position: fixed;
+    top: 1em;
+    left: 1em;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
 .thumbnail{
 	height: 142px;
 	width: 100px;
 	border-color: white;
-	border-width: 5px;
-	
-
+	border-width: 10px;
 }
 
